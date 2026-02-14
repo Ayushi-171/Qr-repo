@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(201, 28%, 79%);
+    padding:150px;
+}
+
+.qrscan{
+     width: 320px;
+     background-color: white;
+     padding: 10px;
+     margin-top: 7px;
+     font-size: 15px;
+     text-align: center;
+     margin-left: 7px;
+     margin-right: 7px;
+     border-radius: 4%;
+     justify-self: center;
+}
+.text{
+    padding-left: 15px;
+    padding-right:15px;
+
+}
+p{
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: hsl(216, 15%, 48%);
+   
+}
+img{
+    height: auto;
+    max-width: 100%;
+    border-radius: 4%;
+}
+
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    color: hsl(218, 44%, 22%);
+    font-size: 20px;
+}
