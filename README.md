@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Frontend Mentor - QR code component 
 
 A responsive QR code component built using HTML and CSS as part of a Frontend Mentor challenge.  
