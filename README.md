@@ -23,7 +23,7 @@ This project focuses on layout design, spacing, and clean UI styling.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://ayushi-171.github.io/Qr-repo/
 
 ## My process
 
