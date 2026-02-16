@@ -61,7 +61,7 @@ I used AI tools to support my learning and development process during this proje
 ## Author
 
 - Name: **Ayushi Swami**
-- Frontend Mentor: https://www.frontendmentor.io/profile/yourusername
+- Frontend Mentor: https://www.frontendmentor.io/profile/Ayushi-171
 - GitHub: https://github.com/Ayushi-171
 
 
